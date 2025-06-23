@@ -1,5 +1,5 @@
 <h1 align="center">Hi There!👋, I'm Landon Leger</h1>
-<h3 align="center">A determined Computer Science student</h3>
+<h3 align="center">A determined  4th year Computer Science student</h3>
 
 - I'm currently working on **obtaining my CS degree from the University of Ottawa**
 
