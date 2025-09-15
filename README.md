@@ -3,7 +3,7 @@
 
 - I'm currently working on **obtaining my CS degree from the University of Ottawa**
 
-- 🌱 I’m currently learning **PyTorch and ML**
+- 🌱 I’m currently learning **AI and Pandas**
 
 - 📫 How to reach me **ladonleger@gmail.com**
 
